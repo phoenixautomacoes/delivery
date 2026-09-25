@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Restaurante - Pedidos na Mesa, Entrega & KDS",
+  "description": "Sistema completo de restaurante com pedidos na mesa por QR Code, comanda digital, entrega com rastreamento, KDS de cozinha e fechamento via PIX/cartão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
